@@ -1,0 +1,19 @@
+0 verbose cli /home/dnesllzp/.nvm/versions/node/v22.4.1/bin/node /home/dnesllzp/.nvm/versions/node/v22.4.1/bin/npm
+1 info using npm@10.8.1
+2 info using node@v22.4.1
+3 silly config load:file:/home/dnesllzp/.nvm/versions/node/v22.4.1/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/dnesllzp/fabric_prototype/fabric-samples/asset-transfer-basic/chaincode-typescript/.npmrc
+5 silly config load:file:/home/dnesllzp/.npmrc
+6 silly config load:file:/home/dnesllzp/.nvm/versions/node/v22.4.1/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/home/dnesllzp/.npm/_logs/2024-07-27T23_09_18_475Z-
+10 verbose logfile /home/dnesllzp/.npm/_logs/2024-07-27T23_09_18_475Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /home/dnesllzp/fabric_prototype/fabric-samples/asset-transfer-basic/chaincode-typescript
+14 verbose os Linux 5.15.153.1-microsoft-standard-WSL2
+15 verbose node v22.4.1
+16 verbose npm  v10.8.1
+17 verbose exit 0
+18 info ok
